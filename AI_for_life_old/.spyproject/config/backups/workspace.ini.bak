@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['main.py', 'AI.py', 'Bug.py', '..\\AI_for_life_old\\AI 3 mass.py', 'optims.py']
+recent_files = ['AI.py', 'AI 3 mass.py', 'AI 2 movement.py', 'AI 1.py']
 
 [main]
 version = 0.2.0
